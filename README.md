@@ -1,6 +1,4 @@
-Voici un exemple de fichier `README.md` pour le projet **Anime Vault** :
 
-```markdown
 # Anime Vault
 
 **Anime Vault** est une plateforme dédiée aux passionnés d'anime, offrant un accès facile aux animes les plus populaires du moment. Plongez dans les divers royaumes magiques de l'animation japonaise grâce à une interface fluide et une expérience utilisateur engageante.
